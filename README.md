@@ -1,5 +1,4 @@
 # My-Instagram-Clone
-นาย จิรวัฒน์ ทองเทพ
 
 เรียนรู้การใช้ firebase ในการทำหลังบ้านของแอพ Android
 
