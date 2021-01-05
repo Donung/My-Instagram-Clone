@@ -1,6 +1,6 @@
 # My-Instagram-Clone
 
-เรียนรู้การใช้ firebase ทำApp Android
+เรียนรู้การใช้ firebase ทำApp Android (Java)
 
 ![Alt Text](https://s8.gifyu.com/images/20201115-081502-720x1280.gif)
 ![Alt Text](https://s8.gifyu.com/images/20201115-093605-720x1280.gif)
