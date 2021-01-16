@@ -8,7 +8,9 @@
 ![Alt Text](https://s8.gifyu.com/images/20201115-101149-720x1280.gif)
 
 Authentication(สมัครบัญชีจาก email)
+
 Realtime Database(เก็บข้อมูล)
+
 Storage(เก็บรูป)
 
 
